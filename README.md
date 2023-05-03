@@ -1,6 +1,6 @@
 # verbora
 
-A new Flutter project.
+Snake com um gerador de frases junto.
 
 ## Getting Started
 
